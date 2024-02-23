@@ -1,15 +1,15 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Responsive Portfolio Website Rian
+## [Watch it on youtube](https://youtu.be/-uQIBlaZ4P0)
+### Responsive Portfolio Website Rian
 
-### Project Description
-This is a Portfolio landing page built with Laravel, It has a full control panel to control content.
-[Recorded Video for the whole project](https://youtu.be/67eNtTWKtcc "Recorded Video for the whole project")
-                
-### How to Install
-1. Clone the project
-2. Go to the project root directory and run `composer install` and `npm install`
-3. Create `.env` file and copy content from `.env.example`
-4. Run `php artisan key:generate` from terminal
-5. Change database information in `.env`
-6. Run migrations by executing `php artisan migrate` , Then Run  `php artisan db:seed` to use faker settings in database,
-7. Start the project by running `php artisan serve`
+- Responsive Personal Portfolio Website Using HTML CSS & JavaScript
+- Contains animations when scrolling.
+- Smooth scrolling in each section.
+- Includes a dark & light theme.
+- Sending emails in the contact section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
+💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+
+![preview img](/preview.png)
